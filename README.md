@@ -149,6 +149,7 @@ Double-click **`launch.bat`**, or follow the step-by-step
 **[Windows setup guide](WINDOWS.md)**. The trained MobileNetV2 classifier,
 non-food calibration, ANN, sample photos, and nutrition database are included
 in the repository, so **you do not need the image dataset just to run the app**.
+No `.env` file, API key, or external service is required.
 
 ### macOS / Linux
 

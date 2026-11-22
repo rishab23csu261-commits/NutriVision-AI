@@ -5,7 +5,8 @@ TensorFlow is CPU-only on Windows; no GPU is required.
 
 The trained food classifier, calibration file, ANN, sample photos, and nutrition
 database are already included in the repository. **You do not need the image
-dataset to run the app.** The dataset is only for retraining.
+dataset to run the app.** The dataset is only for retraining. No `.env` file or
+API key is required.
 
 ---
 
